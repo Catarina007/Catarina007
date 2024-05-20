@@ -1,16 +1,16 @@
-### Hi there 👋
+### Boas vindas ao meu perfil 🍀
 
-<!--
-**Catarina007/Catarina007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou Catarina 
 
-Here are some ideas to get you started:
+- Estou estudando na plataforma [Alura]( https://cursos.alura.com.br)
+- Estou me desenvolvendo a linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos !
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+## Você pode entrar em contato comigo 📫
+
+00001106359987sp@al.educacao.sp.gov.br
+
+![](https://tenor.com/pt-BR/view/duh-ashley-olsen-mary-kate-full-house-young-gif-4463391)
